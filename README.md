@@ -8,7 +8,7 @@ Besides, I planned to develop new modules based on it.
 
 ## Demo
 
-![](./assets/demo.gif)
+<img src="./assets/demo.gif" width = 45% height = 45% />
 
 ## Some Useful Links
 
