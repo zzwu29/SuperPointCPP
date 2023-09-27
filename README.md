@@ -7,8 +7,8 @@ This repository was from [here](https://github.com/konan6915/SuperPointCPP). I m
 Besides, I planned to develop new modules based on it.
 
 ## Demo
-<img src="./assets/fast.gif" width = 45% height = 45% />
-<img src="./assets/demo.gif" width = 45% height = 45% />
+
+<img src="./assets/fast.gif" width = 40% height = 40% alt = "FAST" align = center /><img src="./assets/demo.gif" width = 40% height = 40% alt = "SuperPoint" align = center />
 
 ## Some Useful Links
 
