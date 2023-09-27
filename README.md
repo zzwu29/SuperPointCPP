@@ -10,6 +10,8 @@ Besides, I planned to develop new modules based on it.
 
 <img src="./assets/fast.gif" width = 40% height = 40% alt = "FAST" align = center /><img src="./assets/demo.gif" width = 40% height = 40% alt = "SuperPoint" align = center />
 
+The FAST detector demo can be found [here](./assets/fast_detector.py).
+
 ## Some Useful Links
 
 ### 1. Paper
